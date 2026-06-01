@@ -26,20 +26,4 @@ https://www.worldhistory.org/Napoleon_Bonaparte/
 
 - Leia o projeto completo em: README-pt.md
 
--ESPAÑOL:
-# #Cuaderno-de-Historia-de-NapoleónLM
-Esta es la historia de Napoleón Bonaparte. Este repositorio fue creado por mí utilizando notebookLM, un proyecto de DIO.
-El tema de interés fue la historia de Napoleón Bonaparte, una de las figuras más emblemáticas de la historia, especialmente en Europa.
-El objetivo principal de este proyecto es aprender un poco de historia, comprendiendo cómo la IA de NotebookLM nos ayuda en este proceso.
-
-Aquí tenéis algunos enlaces que utilicé para crear el proyecto:
-
-https://en.chateauversailles.fr/discover/history/great-characters/napoleon-i
-https://www.worldhistory.org/Napoleon_Bonaparte/
-
-- Lea el proyecto completo en: README-es.md
-
-
-
-
 
