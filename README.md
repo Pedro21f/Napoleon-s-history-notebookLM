@@ -10,7 +10,7 @@ Here are some links I used in creating the project:
 https://en.chateauversailles.fr/discover/history/great-characters/napoleon-i
 https://www.worldhistory.org/Napoleon_Bonaparte/
 
-- Read in READ-us-usa.md
+- Read the full project at: README-es.md
 
 -PORTUGUÊS:
 
@@ -24,7 +24,7 @@ Alguns links que utilizei na criação do projeto:
 https://en.chateauversailles.fr/discover/history/great-characters/napoleon-i
 https://www.worldhistory.org/Napoleon_Bonaparte/
 
-- Leia em READ-pt-br.md
+- Leia o projeto completo em: README-pt.md
 
 -ESPAÑOL:
 # #Cuaderno-de-Historia-de-NapoleónLM
@@ -37,7 +37,7 @@ Aquí tenéis algunos enlaces que utilicé para crear el proyecto:
 https://en.chateauversailles.fr/discover/history/great-characters/napoleon-i
 https://www.worldhistory.org/Napoleon_Bonaparte/
 
-- Leer en READ-es-es.md
+- Lea el proyecto completo en: README-es.md
 
 
 
