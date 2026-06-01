@@ -10,6 +10,8 @@ Here are some links I used in creating the project:
 https://en.chateauversailles.fr/discover/history/great-characters/napoleon-i
 https://www.worldhistory.org/Napoleon_Bonaparte/
 
+-Read in READ-us-usa.md-
+
 -PORTUGUÊS:
 
 # História-de-Napoleão-notebookLM
@@ -22,6 +24,8 @@ Alguns links que utilizei na criação do projeto:
 https://en.chateauversailles.fr/discover/history/great-characters/napoleon-i
 https://www.worldhistory.org/Napoleon_Bonaparte/
 
+-Leia em READ-pt-br.md-
+
 -ESPAÑOL:
 # #Cuaderno-de-Historia-de-NapoleónLM
 Esta es la historia de Napoleón Bonaparte. Este repositorio fue creado por mí utilizando notebookLM, un proyecto de DIO.
@@ -32,6 +36,8 @@ Aquí tenéis algunos enlaces que utilicé para crear el proyecto:
 
 https://en.chateauversailles.fr/discover/history/great-characters/napoleon-i
 https://www.worldhistory.org/Napoleon_Bonaparte/
+
+- Leer en READ-es-es.md-
 
 
 
